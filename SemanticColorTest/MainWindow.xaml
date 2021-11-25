@@ -1,0 +1,18 @@
+﻿<Window
+    x:Class="SemanticColorTest.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:SemanticColorTest"
+    Width="800"
+    Height="450">
+    <!--  コメント  -->
+    <Window.DataContext>
+        <local:MainWindowViewModel />
+    </Window.DataContext>
+    <Grid>
+        <local:MyUserControl
+            Grid.Row="0"
+            Margin="100"
+            DataContext="{Binding MyUserControlVM, UpdateSourceTrigger=PropertyChanged}" />
+    </Grid>
+</Window>

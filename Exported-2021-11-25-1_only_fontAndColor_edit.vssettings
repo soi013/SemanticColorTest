@@ -1,0 +1,52 @@
+<UserSettings>
+    <ApplicationIdentity version="17.0"/>
+    <ToolsOptions>
+        <ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+    </ToolsOptions>
+    <Category name="Environment_Group" RegisteredName="Environment_Group">
+        <Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+            <PropertyValue name="Version">2</PropertyValue>
+            <FontsAndColors Version="2.0">
+                <Theme Id="{1DED0138-47CE-435E-84EF-9EC1F439B749}"/>
+                <Categories>
+                    <Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontName="Fira Code Retina" FontSize="10" CharSet="1" FontIsDefault="No">
+                        <Items>
+                            <Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x00D3C0AD" Background="0x00B54AB5" BoldFont="No"/>
+                            <Item Name="viasfora.razor.closing.element" Foreground="0x00404040" Background="0x01000001" BoldFont="Yes"/>
+                            <Item Name="viasfora.xml.closing" Foreground="0x00404040" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="viasfora.xml.closing.prefix" Foreground="0x00404040" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="viasfora.xml.prefix" Foreground="0x00DB7093" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="MatchColor" Foreground="0x00FF00FF" Background="0x00602060" BoldFont="No"/>
+                            <Item Name="MarkerFormatDefinition/HighlightedDefinition" Foreground="0x00ADD3C0" Background="0x00EA6AEA" BoldFont="No"/>
+                            <Item Name="MarkerFormatDefinition/HighlightedWrittenReference" Foreground="0x00D3C0AD" Background="0x00DF20DF" BoldFont="No"/>
+                            <Item Name="static symbol" Foreground="0x01000000" Background="0x01000001" BoldFont="Yes"/>
+                            <Item Name="record class name" Foreground="0x00D1E098" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="record struct name" Foreground="0x00A6D09D" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="delegate name" Foreground="0x00A3ACF1" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="field name" Foreground="0x00AB94AB" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="enum member name" Foreground="0x00CF7070" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="constant name" Foreground="0x00FF00FF" Background="0x01000001" BoldFont="Yes"/>
+                            <Item Name="local name" Foreground="0x00FEEDCD" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="extension method name" Foreground="0x00586AE7" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="property name" Foreground="0x00AF50AF" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="event name" Foreground="0x00D5D9F9" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="namespace name" Foreground="0x0040BF40" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="viasfora.keyword.flowcontrol" Foreground="0x00FFFF00" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="viasfora.keyword.visibility" Foreground="0x00FFBF00" Background="0x01000001" BoldFont="No"/>
+                            <Item Name="RazorCode" Foreground="0x01000000" Background="0x00303030" BoldFont="Yes"/>
+                        </Items>
+                    </Category>
+                    <Category GUID="{E0187991-B458-4F7E-8CA9-42C9A573B56C}" FontName="Fira Code Retina" FontSize="10" CharSet="1" FontIsDefault="No">
+                        <Items>
+                            <Item Name="XAML Name" Foreground="0x00DFDF20" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="XAML Attribute" Foreground="0x00AF50AF" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="XAML Markup Extension Class" Foreground="0x005555FF" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="XAML Markup Extension Parameter Name" Foreground="0x008080FF" Background="0x02000000" BoldFont="No"/>
+                            <Item Name="XAML Markup Extension Parameter Value" Foreground="0x009A9AE4" Background="0x02000000" BoldFont="No"/>
+                        </Items>
+                    </Category>
+                </Categories>
+            </FontsAndColors>
+        </Category>
+    </Category>
+</UserSettings>
